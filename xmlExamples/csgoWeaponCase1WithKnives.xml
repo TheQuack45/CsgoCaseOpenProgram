@@ -1,0 +1,765 @@
+<root>
+	<odds>
+		<classOdds>
+			<class>
+				<className>Mil-spec</className>
+				<classColor>Blue</classColor>
+				<classOdds>.752</classOdds>
+			</class>
+			<class>
+				<className>Restricted</className>
+				<classColor>Purple</classColor>
+				<classOdds>.17</classOdds>
+			</class>
+			<class>
+				<className>Classified</className>
+				<classColor>Pink</classColor>
+				<classOdds>.06</classOdds>
+			</class>
+			<class>
+				<className>Covert</className>
+				<classColor>Red</classColor>
+				<classOdds>.02</classOdds>
+			</class>
+			<class>
+				<className>Exceedingly Rare</className>
+				<classColor>Gold</classColor>
+				<classOdds>.008</classOdds>
+			</class>
+		</classOdds>
+	</odds>
+	
+	<cases>
+		<case caseName="Weapons Case 1">
+			<possibleGuns>
+				<gun>
+					<gunName>MP7</gunName>
+					<gunSkin>Skulls</gunSkin>
+					<gunClass>Blue</gunClass>
+					<possibleConditions>FN,MW,FT,WW,BS</possibleConditions>
+				</gun>
+				
+				<gun>
+					<gunName>SG 553</gunName>
+					<gunSkin>Ultraviolet</gunSkin>
+					<gunClass>Blue</gunClass>
+					<possibleConditions>FN,MW,FT,WW,BS</possibleConditions>
+				</gun>				
+
+				<gun>
+					<gunName>AUG</gunName>
+					<gunSkin>Wings</gunSkin>
+					<gunClass>Blue</gunClass>
+					<possibleConditions>FN,MW,FT,WW,BS</possibleConditions>
+				</gun>
+      
+				<gun>
+					<gunName>M4A1-S</gunName>
+					<gunSkin>Dark Water</gunSkin>
+					<gunClass>Purple</gunClass>
+					<possibleConditions>FN,MW,FT,WW,BS</possibleConditions>
+				</gun>      
+
+				<gun>
+					<gunName>USP-S</gunName>
+					<gunSkin>Dark Water</gunSkin>
+					<gunClass>Purple</gunClass>
+					<possibleConditions>FN,MW,FT,WW,BS</possibleConditions>
+				</gun>
+            
+				<gun>
+					<gunName>Glock-18</gunName>
+					<gunSkin>Dragon Tattoo</gunSkin>
+					<gunClass>Purple</gunClass>
+					<possibleConditions>FN,MW,FT,WW,BS</possibleConditions>
+				</gun>
+            
+				<gun>
+					<gunName>Desert Eagle</gunName>
+					<gunSkin>Hypnotic</gunSkin>
+					<gunClass>Pink</gunClass>
+					<possibleConditions>FN,MW,FT,WW,BS</possibleConditions>
+				</gun>
+            
+				<gun>
+					<gunName>AK-47</gunName>
+					<gunSkin>Case-Hardened</gunSkin>
+					<gunClass>Pink</gunClass>
+					<possibleConditions>FN,MW,FT,WW,BS</possibleConditions>
+				</gun>
+            
+				<gun>
+					<gunName>AWP</gunName>
+					<gunSkin>Lightning Strike</gunSkin>
+					<gunClass>Red</gunClass>
+					<possibleConditions>FN,MW,FT,WW,BS</possibleConditions>
+				</gun>
+
+				
+<!--Bayonet-->
+
+		<gun>
+          <gunName>Bayonet</gunName>
+          <gunSkin>Damascus Steel</gunSkin>
+          <gunClass>Gold</gunClass>
+          <possibleConditions>FN,MW,FT,WW,BS</possibleConditions>
+        </gun>
+		
+		<gun>
+          <gunName>Bayonet</gunName>
+          <gunSkin>Doppler</gunSkin>
+          <gunClass>Gold</gunClass>
+          <possibleConditions>FN,MW,FT,WW,BS</possibleConditions>
+        </gun>
+		
+		<gun>
+          <gunName>Bayonet</gunName>
+          <gunSkin>Marble Fade</gunSkin>
+          <gunClass>Gold</gunClass>
+          <possibleConditions>FN,MW,FT,WW,BS</possibleConditions>
+        </gun>
+		
+		<gun>
+          <gunName>Bayonet</gunName>
+          <gunSkin>Tiger Tooth</gunSkin>
+          <gunClass>Gold</gunClass>
+          <possibleConditions>FN,MW,FT,WW,BS</possibleConditions>
+        </gun>
+		
+		<gun>
+          <gunName>Bayonet</gunName>
+          <gunSkin>Rust Coat</gunSkin>
+          <gunClass>Gold</gunClass>
+          <possibleConditions>FN,MW,FT,WW,BS</possibleConditions>
+        </gun>
+		
+		<gun>
+          <gunName>Bayonet</gunName>
+          <gunSkin>Ultraviolet</gunSkin>
+          <gunClass>Gold</gunClass>
+          <possibleConditions>FN,MW,FT,WW,BS</possibleConditions>
+        </gun>
+		
+		<gun>
+          <gunName>Bayonet</gunName>
+          <gunSkin>*</gunSkin>
+          <gunClass>Gold</gunClass>
+          <possibleConditions>FN,MW,FT,WW,BS</possibleConditions>
+        </gun>
+		
+		<gun>
+          <gunName>Bayonet</gunName>
+          <gunSkin>Blue Steel</gunSkin>
+          <gunClass>Gold</gunClass>
+          <possibleConditions>FN,MW,FT,WW,BS</possibleConditions>
+        </gun>
+		
+		<gun>
+          <gunName>Bayonet</gunName>
+          <gunSkin>Boreal Forest</gunSkin>
+          <gunClass>Gold</gunClass>
+          <possibleConditions>FN,MW,FT,WW,BS</possibleConditions>
+        </gun>
+		
+		<gun>
+          <gunName>Bayonet</gunName>
+          <gunSkin>Case-Hardened</gunSkin>
+          <gunClass>Gold</gunClass>
+          <possibleConditions>FN,MW,FT,WW,BS</possibleConditions>
+        </gun>		
+
+		<gun>
+          <gunName>Bayonet</gunName>
+          <gunSkin>Crimson Web</gunSkin>
+          <gunClass>Gold</gunClass>
+          <possibleConditions>FN,MW,FT,WW,BS</possibleConditions>
+        </gun>		
+		
+		<gun>
+          <gunName>Bayonet</gunName>
+          <gunSkin>Fade</gunSkin>
+          <gunClass>Gold</gunClass>
+          <possibleConditions>FN,MW,FT,WW,BS</possibleConditions>
+        </gun>		
+				
+		<gun>
+          <gunName>Bayonet</gunName>
+          <gunSkin>Forest DDPAT</gunSkin>
+          <gunClass>Gold</gunClass>
+          <possibleConditions>FN,MW,FT,WW,BS</possibleConditions>
+        </gun>						
+	
+		<gun>
+          <gunName>Bayonet</gunName>
+          <gunSkin>Night</gunSkin>
+          <gunClass>Gold</gunClass>
+          <possibleConditions>FN,MW,FT,WW,BS</possibleConditions>
+        </gun>		
+						
+		<gun>
+          <gunName>Bayonet</gunName>
+          <gunSkin>Safari Mesh</gunSkin>
+          <gunClass>Gold</gunClass>
+          <possibleConditions>FN,MW,FT,WW,BS</possibleConditions>
+        </gun>		
+						
+		<gun>
+          <gunName>Bayonet</gunName>
+          <gunSkin>Scorched</gunSkin>
+          <gunClass>Gold</gunClass>
+          <possibleConditions>FN,MW,FT,WW,BS</possibleConditions>
+        </gun>		
+						
+		<gun>
+          <gunName>Bayonet</gunName>
+          <gunSkin>Slaughter</gunSkin>
+          <gunClass>Gold</gunClass>
+          <possibleConditions>FN,MW,FT,WW,BS</possibleConditions>
+        </gun>		
+						
+		<gun>
+          <gunName>Bayonet</gunName>
+          <gunSkin>Stained</gunSkin>
+          <gunClass>Gold</gunClass>
+          <possibleConditions>FN,MW,FT,WW,BS</possibleConditions>
+        </gun>		
+						
+		<gun>
+          <gunName>Bayonet</gunName>
+          <gunSkin>Urban Masked</gunSkin>
+          <gunClass>Gold</gunClass>
+          <possibleConditions>FN,MW,FT,WW,BS</possibleConditions>
+        </gun>		
+		
+<!--M9 Bayonet-->		
+		
+		        <gun>
+          <gunName>M9 Bayonet</gunName>
+          <gunSkin>Damascus Steel</gunSkin>
+          <gunClass>Gold</gunClass>
+          <possibleConditions>FN,MW,FT,WW,BS</possibleConditions>
+        </gun>
+		
+		<gun>
+          <gunName>M9 Bayonet</gunName>
+          <gunSkin>Doppler</gunSkin>
+          <gunClass>Gold</gunClass>
+          <possibleConditions>FN,MW,FT,WW,BS</possibleConditions>
+        </gun>
+		
+		<gun>
+          <gunName>M9 Bayonet</gunName>
+          <gunSkin>Marble Fade</gunSkin>
+          <gunClass>Gold</gunClass>
+          <possibleConditions>FN,MW,FT,WW,BS</possibleConditions>
+        </gun>
+		
+		<gun>
+          <gunName>M9 Bayonet</gunName>
+          <gunSkin>Tiger Tooth</gunSkin>
+          <gunClass>Gold</gunClass>
+          <possibleConditions>FN,MW,FT,WW,BS</possibleConditions>
+        </gun>
+		
+		<gun>
+          <gunName>M9 Bayonet</gunName>
+          <gunSkin>Rust Coat</gunSkin>
+          <gunClass>Gold</gunClass>
+          <possibleConditions>FN,MW,FT,WW,BS</possibleConditions>
+        </gun>
+		
+		<gun>
+          <gunName>M9 Bayonet</gunName>
+          <gunSkin>Ultraviolet</gunSkin>
+          <gunClass>Gold</gunClass>
+          <possibleConditions>FN,MW,FT,WW,BS</possibleConditions>
+        </gun>
+		
+		<gun>
+          <gunName>M9 Bayonet</gunName>
+          <gunSkin>*</gunSkin>
+          <gunClass>Gold</gunClass>
+          <possibleConditions>FN,MW,FT,WW,BS</possibleConditions>
+        </gun>
+		
+		<gun>
+          <gunName>M9 Bayonet</gunName>
+          <gunSkin>Blue Steel</gunSkin>
+          <gunClass>Gold</gunClass>
+          <possibleConditions>FN,MW,FT,WW,BS</possibleConditions>
+        </gun>
+		
+		<gun>
+          <gunName>M9 Bayonet</gunName>
+          <gunSkin>Boreal Forest</gunSkin>
+          <gunClass>Gold</gunClass>
+          <possibleConditions>FN,MW,FT,WW,BS</possibleConditions>
+        </gun>
+		
+		<gun>
+          <gunName>M9 Bayonet</gunName>
+          <gunSkin>Case-Hardened</gunSkin>
+          <gunClass>Gold</gunClass>
+          <possibleConditions>FN,MW,FT,WW,BS</possibleConditions>
+        </gun>		
+
+		<gun>
+          <gunName>M9 Bayonet</gunName>
+          <gunSkin>Crimson Web</gunSkin>
+          <gunClass>Gold</gunClass>
+          <possibleConditions>FN,MW,FT,WW,BS</possibleConditions>
+        </gun>		
+		
+		<gun>
+          <gunName>M9 Bayonet</gunName>
+          <gunSkin>Fade</gunSkin>
+          <gunClass>Gold</gunClass>
+          <possibleConditions>FN,MW,FT,WW,BS</possibleConditions>
+        </gun>		
+				
+		<gun>
+          <gunName>M9 Bayonet</gunName>
+          <gunSkin>Forest DDPAT</gunSkin>
+          <gunClass>Gold</gunClass>
+          <possibleConditions>FN,MW,FT,WW,BS</possibleConditions>
+        </gun>						
+	
+		<gun>
+          <gunName>M9 Bayonet</gunName>
+          <gunSkin>Night</gunSkin>
+          <gunClass>Gold</gunClass>
+          <possibleConditions>FN,MW,FT,WW,BS</possibleConditions>
+        </gun>		
+						
+		<gun>
+          <gunName>M9 Bayonet</gunName>
+          <gunSkin>Safari Mesh</gunSkin>
+          <gunClass>Gold</gunClass>
+          <possibleConditions>FN,MW,FT,WW,BS</possibleConditions>
+        </gun>		
+						
+		<gun>
+          <gunName>M9 Bayonet</gunName>
+          <gunSkin>Scorched</gunSkin>
+          <gunClass>Gold</gunClass>
+          <possibleConditions>FN,MW,FT,WW,BS</possibleConditions>
+        </gun>		
+						
+		<gun>
+          <gunName>M9 Bayonet</gunName>
+          <gunSkin>Slaughter</gunSkin>
+          <gunClass>Gold</gunClass>
+          <possibleConditions>FN,MW,FT,WW,BS</possibleConditions>
+        </gun>		
+						
+		<gun>
+          <gunName>M9 Bayonet</gunName>
+          <gunSkin>Stained</gunSkin>
+          <gunClass>Gold</gunClass>
+          <possibleConditions>FN,MW,FT,WW,BS</possibleConditions>
+        </gun>		
+						
+		<gun>
+          <gunName>M9 Bayonet</gunName>
+          <gunSkin>Urban Masked</gunSkin>
+          <gunClass>Gold</gunClass>
+          <possibleConditions>FN,MW,FT,WW,BS</possibleConditions>
+        </gun>
+
+		
+<!--Karambit-->		
+			
+				<gun>
+          <gunName>Karambit</gunName>
+          <gunSkin>Marble Fade</gunSkin>
+          <gunClass>Gold</gunClass>
+          <possibleConditions>FN,MW,FT,WW,BS</possibleConditions>
+        </gun>
+		
+		<gun>
+          <gunName>Karambit</gunName>
+          <gunSkin>Tiger Tooth</gunSkin>
+          <gunClass>Gold</gunClass>
+          <possibleConditions>FN,MW,FT,WW,BS</possibleConditions>
+        </gun>
+		
+		<gun>
+          <gunName>Karambit</gunName>
+          <gunSkin>Rust Coat</gunSkin>
+          <gunClass>Gold</gunClass>
+          <possibleConditions>FN,MW,FT,WW,BS</possibleConditions>
+        </gun>
+		
+		<gun>
+          <gunName>Karambit</gunName>
+          <gunSkin>Ultraviolet</gunSkin>
+          <gunClass>Gold</gunClass>
+          <possibleConditions>FN,MW,FT,WW,BS</possibleConditions>
+        </gun>
+		
+		<gun>
+          <gunName>Karambit</gunName>
+          <gunSkin>*</gunSkin>
+          <gunClass>Gold</gunClass>
+          <possibleConditions>FN,MW,FT,WW,BS</possibleConditions>
+        </gun>
+		
+		<gun>
+          <gunName>Karambit</gunName>
+          <gunSkin>Blue Steel</gunSkin>
+          <gunClass>Gold</gunClass>
+          <possibleConditions>FN,MW,FT,WW,BS</possibleConditions>
+        </gun>
+		
+		<gun>
+          <gunName>Karambit</gunName>
+          <gunSkin>Boreal Forest</gunSkin>
+          <gunClass>Gold</gunClass>
+          <possibleConditions>FN,MW,FT,WW,BS</possibleConditions>
+        </gun>
+		
+		<gun>
+          <gunName>Karambit</gunName>
+          <gunSkin>Case-Hardened</gunSkin>
+          <gunClass>Gold</gunClass>
+          <possibleConditions>FN,MW,FT,WW,BS</possibleConditions>
+        </gun>		
+
+		<gun>
+          <gunName>Karambit</gunName>
+          <gunSkin>Crimson Web</gunSkin>
+          <gunClass>Gold</gunClass>
+          <possibleConditions>FN,MW,FT,WW,BS</possibleConditions>
+        </gun>		
+		
+		<gun>
+          <gunName>Karambit</gunName>
+          <gunSkin>Fade</gunSkin>
+          <gunClass>Gold</gunClass>
+          <possibleConditions>FN,MW,FT,WW,BS</possibleConditions>
+        </gun>		
+				
+		<gun>
+          <gunName>Karambit</gunName>
+          <gunSkin>Forest DDPAT</gunSkin>
+          <gunClass>Gold</gunClass>
+          <possibleConditions>FN,MW,FT,WW,BS</possibleConditions>
+        </gun>						
+	
+		<gun>
+          <gunName>Karambit</gunName>
+          <gunSkin>Night</gunSkin>
+          <gunClass>Gold</gunClass>
+          <possibleConditions>FN,MW,FT,WW,BS</possibleConditions>
+        </gun>		
+						
+		<gun>
+          <gunName>Karambit</gunName>
+          <gunSkin>Safari Mesh</gunSkin>
+          <gunClass>Gold</gunClass>
+          <possibleConditions>FN,MW,FT,WW,BS</possibleConditions>
+        </gun>		
+						
+		<gun>
+          <gunName>Karambit</gunName>
+          <gunSkin>Scorched</gunSkin>
+          <gunClass>Gold</gunClass>
+          <possibleConditions>FN,MW,FT,WW,BS</possibleConditions>
+        </gun>		
+						
+		<gun>
+          <gunName>Karambit</gunName>
+          <gunSkin>Slaughter</gunSkin>
+          <gunClass>Gold</gunClass>
+          <possibleConditions>FN,MW,FT,WW,BS</possibleConditions>
+        </gun>		
+						
+		<gun>
+          <gunName>Karambit</gunName>
+          <gunSkin>Stained</gunSkin>
+          <gunClass>Gold</gunClass>
+          <possibleConditions>FN,MW,FT,WW,BS</possibleConditions>
+        </gun>		
+						
+		<gun>
+          <gunName>Karambit</gunName>
+          <gunSkin>Urban Masked</gunSkin>
+          <gunClass>Gold</gunClass>
+          <possibleConditions>FN,MW,FT,WW,BS</possibleConditions>
+        </gun>			
+
+
+<!--Gut Knife-->
+
+       <gun>
+          <gunName>Gut Knife</gunName>
+          <gunSkin>Damascus Steel</gunSkin>
+          <gunClass>Gold</gunClass>
+          <possibleConditions>FN,MW,FT,WW,BS</possibleConditions>
+        </gun>
+		
+		<gun>
+          <gunName>Gut Knife</gunName>
+          <gunSkin>Doppler</gunSkin>
+          <gunClass>Gold</gunClass>
+          <possibleConditions>FN,MW,FT,WW,BS</possibleConditions>
+        </gun>
+		
+		<gun>
+          <gunName>Gut Knife</gunName>
+          <gunSkin>Marble Fade</gunSkin>
+          <gunClass>Gold</gunClass>
+          <possibleConditions>FN,MW,FT,WW,BS</possibleConditions>
+        </gun>
+		
+		<gun>
+          <gunName>Gut Knife</gunName>
+          <gunSkin>Tiger Tooth</gunSkin>
+          <gunClass>Gold</gunClass>
+          <possibleConditions>FN,MW,FT,WW,BS</possibleConditions>
+        </gun>
+		
+		<gun>
+          <gunName>Gut Knife</gunName>
+          <gunSkin>Rust Coat</gunSkin>
+          <gunClass>Gold</gunClass>
+          <possibleConditions>FN,MW,FT,WW,BS</possibleConditions>
+        </gun>
+		
+		<gun>
+          <gunName>Gut Knife</gunName>
+          <gunSkin>Ultraviolet</gunSkin>
+          <gunClass>Gold</gunClass>
+          <possibleConditions>FN,MW,FT,WW,BS</possibleConditions>
+        </gun>
+		
+		<gun>
+          <gunName>Gut Knife</gunName>
+          <gunSkin>*</gunSkin>
+          <gunClass>Gold</gunClass>
+          <possibleConditions>FN,MW,FT,WW,BS</possibleConditions>
+        </gun>
+		
+		<gun>
+          <gunName>Gut Knife</gunName>
+          <gunSkin>Blue Steel</gunSkin>
+          <gunClass>Gold</gunClass>
+          <possibleConditions>FN,MW,FT,WW,BS</possibleConditions>
+        </gun>
+		
+		<gun>
+          <gunName>Gut Knife</gunName>
+          <gunSkin>Boreal Forest</gunSkin>
+          <gunClass>Gold</gunClass>
+          <possibleConditions>FN,MW,FT,WW,BS</possibleConditions>
+        </gun>
+		
+		<gun>
+          <gunName>Gut Knife</gunName>
+          <gunSkin>Case-Hardened</gunSkin>
+          <gunClass>Gold</gunClass>
+          <possibleConditions>FN,MW,FT,WW,BS</possibleConditions>
+        </gun>		
+
+		<gun>
+          <gunName>Gut Knife</gunName>
+          <gunSkin>Crimson Web</gunSkin>
+          <gunClass>Gold</gunClass>
+          <possibleConditions>FN,MW,FT,WW,BS</possibleConditions>
+        </gun>		
+		
+		<gun>
+          <gunName>Gut Knife</gunName>
+          <gunSkin>Fade</gunSkin>
+          <gunClass>Gold</gunClass>
+          <possibleConditions>FN,MW,FT,WW,BS</possibleConditions>
+        </gun>		
+				
+		<gun>
+          <gunName>Gut Knife</gunName>
+          <gunSkin>Forest DDPAT</gunSkin>
+          <gunClass>Gold</gunClass>
+          <possibleConditions>FN,MW,FT,WW,BS</possibleConditions>
+        </gun>						
+	
+		<gun>
+          <gunName>Gut Knife</gunName>
+          <gunSkin>Night</gunSkin>
+          <gunClass>Gold</gunClass>
+          <possibleConditions>FN,MW,FT,WW,BS</possibleConditions>
+        </gun>		
+						
+		<gun>
+          <gunName>Gut Knife</gunName>
+          <gunSkin>Safari Mesh</gunSkin>
+          <gunClass>Gold</gunClass>
+          <possibleConditions>FN,MW,FT,WW,BS</possibleConditions>
+        </gun>		
+						
+		<gun>
+          <gunName>Gut Knife</gunName>
+          <gunSkin>Scorched</gunSkin>
+          <gunClass>Gold</gunClass>
+          <possibleConditions>FN,MW,FT,WW,BS</possibleConditions>
+        </gun>		
+						
+		<gun>
+          <gunName>Gut Knife</gunName>
+          <gunSkin>Slaughter</gunSkin>
+          <gunClass>Gold</gunClass>
+          <possibleConditions>FN,MW,FT,WW,BS</possibleConditions>
+        </gun>		
+						
+		<gun>
+          <gunName>Gut Knife</gunName>
+          <gunSkin>Stained</gunSkin>
+          <gunClass>Gold</gunClass>
+          <possibleConditions>FN,MW,FT,WW,BS</possibleConditions>
+        </gun>		
+						
+		<gun>
+          <gunName>Gut Knife</gunName>
+          <gunSkin>Urban Masked</gunSkin>
+          <gunClass>Gold</gunClass>
+          <possibleConditions>FN,MW,FT,WW,BS</possibleConditions>
+        </gun>		
+
+
+<!--Flip Knife-->
+
+        <gun>
+          <gunName>Flip Knife</gunName>
+          <gunSkin>Damascus Steel</gunSkin>
+          <gunClass>Gold</gunClass>
+          <possibleConditions>FN,MW,FT,WW,BS</possibleConditions>
+        </gun>
+		
+		<gun>
+          <gunName>Flip Knife</gunName>
+          <gunSkin>Doppler</gunSkin>
+          <gunClass>Gold</gunClass>
+          <possibleConditions>FN,MW,FT,WW,BS</possibleConditions>
+        </gun>
+		
+		<gun>
+          <gunName>Flip Knife</gunName>
+          <gunSkin>Marble Fade</gunSkin>
+          <gunClass>Gold</gunClass>
+          <possibleConditions>FN,MW,FT,WW,BS</possibleConditions>
+        </gun>
+		
+		<gun>
+          <gunName>Flip Knife</gunName>
+          <gunSkin>Tiger Tooth</gunSkin>
+          <gunClass>Gold</gunClass>
+          <possibleConditions>FN,MW,FT,WW,BS</possibleConditions>
+        </gun>
+		
+		<gun>
+          <gunName>Flip Knife</gunName>
+          <gunSkin>Rust Coat</gunSkin>
+          <gunClass>Gold</gunClass>
+          <possibleConditions>FN,MW,FT,WW,BS</possibleConditions>
+        </gun>
+		
+		<gun>
+          <gunName>Flip Knife</gunName>
+          <gunSkin>Ultraviolet</gunSkin>
+          <gunClass>Gold</gunClass>
+          <possibleConditions>FN,MW,FT,WW,BS</possibleConditions>
+        </gun>
+		
+		<gun>
+          <gunName>Flip Knife</gunName>
+          <gunSkin>*</gunSkin>
+          <gunClass>Gold</gunClass>
+          <possibleConditions>FN,MW,FT,WW,BS</possibleConditions>
+        </gun>
+		
+		<gun>
+          <gunName>Flip Knife</gunName>
+          <gunSkin>Blue Steel</gunSkin>
+          <gunClass>Gold</gunClass>
+          <possibleConditions>FN,MW,FT,WW,BS</possibleConditions>
+        </gun>
+		
+		<gun>
+          <gunName>Flip Knife</gunName>
+          <gunSkin>Boreal Forest</gunSkin>
+          <gunClass>Gold</gunClass>
+          <possibleConditions>FN,MW,FT,WW,BS</possibleConditions>
+        </gun>
+		
+		<gun>
+          <gunName>Flip Knife</gunName>
+          <gunSkin>Case-Hardened</gunSkin>
+          <gunClass>Gold</gunClass>
+          <possibleConditions>FN,MW,FT,WW,BS</possibleConditions>
+        </gun>		
+
+		<gun>
+          <gunName>Flip Knife</gunName>
+          <gunSkin>Crimson Web</gunSkin>
+          <gunClass>Gold</gunClass>
+          <possibleConditions>FN,MW,FT,WW,BS</possibleConditions>
+        </gun>		
+		
+		<gun>
+          <gunName>Flip Knife</gunName>
+          <gunSkin>Fade</gunSkin>
+          <gunClass>Gold</gunClass>
+          <possibleConditions>FN,MW,FT,WW,BS</possibleConditions>
+        </gun>		
+				
+		<gun>
+          <gunName>Flip Knife</gunName>
+          <gunSkin>Forest DDPAT</gunSkin>
+          <gunClass>Gold</gunClass>
+          <possibleConditions>FN,MW,FT,WW,BS</possibleConditions>
+        </gun>						
+	
+		<gun>
+          <gunName>Flip Knife</gunName>
+          <gunSkin>Night</gunSkin>
+          <gunClass>Gold</gunClass>
+          <possibleConditions>FN,MW,FT,WW,BS</possibleConditions>
+        </gun>		
+						
+		<gun>
+          <gunName>Flip Knife</gunName>
+          <gunSkin>Safari Mesh</gunSkin>
+          <gunClass>Gold</gunClass>
+          <possibleConditions>FN,MW,FT,WW,BS</possibleConditions>
+        </gun>		
+						
+		<gun>
+          <gunName>Flip Knife</gunName>
+          <gunSkin>Scorched</gunSkin>
+          <gunClass>Gold</gunClass>
+          <possibleConditions>FN,MW,FT,WW,BS</possibleConditions>
+        </gun>		
+						
+		<gun>
+          <gunName>Flip Knife</gunName>
+          <gunSkin>Slaughter</gunSkin>
+          <gunClass>Gold</gunClass>
+          <possibleConditions>FN,MW,FT,WW,BS</possibleConditions>
+        </gun>		
+						
+		<gun>
+          <gunName>Flip Knife</gunName>
+          <gunSkin>Stained</gunSkin>
+          <gunClass>Gold</gunClass>
+          <possibleConditions>FN,MW,FT,WW,BS</possibleConditions>
+        </gun>		
+						
+		<gun>
+          <gunName>Flip Knife</gunName>
+          <gunSkin>Urban Masked</gunSkin>
+          <gunClass>Gold</gunClass>
+          <possibleConditions>FN,MW,FT,WW,BS</possibleConditions>
+        </gun>
+			</possibleGuns>
+		</case>
+	</cases>
+</root>
