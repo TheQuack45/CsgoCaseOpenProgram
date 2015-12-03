@@ -1,0 +1,15 @@
+c:\users\thequack45\documents\visual studio 2013\Projects\CsgoCaseOpenProgram\CsgoCaseOpenProgram\bin\Debug\CsgoCaseOpenProgram.exe.config
+c:\users\thequack45\documents\visual studio 2013\Projects\CsgoCaseOpenProgram\CsgoCaseOpenProgram\bin\Debug\CsgoCaseOpenProgram.exe
+c:\users\thequack45\documents\visual studio 2013\Projects\CsgoCaseOpenProgram\CsgoCaseOpenProgram\bin\Debug\CsgoCaseOpenProgram.pdb
+c:\users\thequack45\documents\visual studio 2013\Projects\CsgoCaseOpenProgram\CsgoCaseOpenProgram\obj\Debug\CsgoCaseOpenProgram.csprojResolveAssemblyReference.cache
+c:\users\thequack45\documents\visual studio 2013\Projects\CsgoCaseOpenProgram\CsgoCaseOpenProgram\obj\Debug\CsgoCaseOpenProgram.Form1.resources
+c:\users\thequack45\documents\visual studio 2013\Projects\CsgoCaseOpenProgram\CsgoCaseOpenProgram\obj\Debug\CsgoCaseOpenProgram.Properties.Resources.resources
+c:\users\thequack45\documents\visual studio 2013\Projects\CsgoCaseOpenProgram\CsgoCaseOpenProgram\obj\Debug\CsgoCaseOpenProgram.csproj.GenerateResource.Cache
+c:\users\thequack45\documents\visual studio 2013\Projects\CsgoCaseOpenProgram\CsgoCaseOpenProgram\obj\Debug\CsgoCaseOpenProgram.exe
+c:\users\thequack45\documents\visual studio 2013\Projects\CsgoCaseOpenProgram\CsgoCaseOpenProgram\obj\Debug\CsgoCaseOpenProgram.pdb
+C:\Users\TheQuack45\Documents\Visual Studio 2015\Projects\CsgoCaseOpenProgram\CsgoCaseOpenProgram\bin\Debug\CsgoCaseOpenProgram.exe.config
+C:\Users\TheQuack45\Documents\Visual Studio 2015\Projects\CsgoCaseOpenProgram\CsgoCaseOpenProgram\obj\Debug\CsgoCaseOpenProgram.exe
+C:\Users\TheQuack45\Documents\Visual Studio 2015\Projects\CsgoCaseOpenProgram\CsgoCaseOpenProgram\obj\Debug\CsgoCaseOpenProgram.pdb
+C:\Users\TheQuack45\Documents\GitHubVisualStudio\CsgoCaseOpenProgram\CsgoCaseOpenProgram\bin\Debug\CsgoCaseOpenProgram.exe.config
+C:\Users\TheQuack45\Documents\GitHubVisualStudio\CsgoCaseOpenProgram\CsgoCaseOpenProgram\obj\Debug\CsgoCaseOpenProgram.exe
+C:\Users\TheQuack45\Documents\GitHubVisualStudio\CsgoCaseOpenProgram\CsgoCaseOpenProgram\obj\Debug\CsgoCaseOpenProgram.pdb
